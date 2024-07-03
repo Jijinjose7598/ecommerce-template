@@ -9,7 +9,7 @@ function App() {
   const [products, setProducts] = useState([]);
   const [cart, setCart] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5173/products.json")
+    fetch("https://shipshopwebsite.netlify.app/products.json")
       .then((response) => response.json())
       .then((result) => {
         if (result && result.data.length > 0) {
