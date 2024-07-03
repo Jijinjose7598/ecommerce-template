@@ -1,8 +1,11 @@
-# React + Vite
+Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Front End used Technologies
 
-Currently, two official plugins are available:
+HTML CSS Reactjs + Vitejs Installation Method
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+STEP 1: npm create vite@latest -> Enter Project name -> Select Framework (React) -> Select Varient (JavaScript) STEP 2:
+
+cd your project name npm install npm run dev
+
+i did create ecommerce page to used react,html,css and javascript 
